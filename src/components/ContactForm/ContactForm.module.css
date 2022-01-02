@@ -1,12 +1,12 @@
 .form {
-  display: flex;
+  display: inline-flex;
   flex-direction: column;
-  outline: auto;
-  padding: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
 }
 
-input {
+.input {
   margin-bottom: 10px;
 }
